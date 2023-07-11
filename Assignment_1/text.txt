@@ -1,0 +1,1 @@
+An assignment for practicing using classifiers to classify different labels of an dataset, and evaluate with multiple different metrics.
