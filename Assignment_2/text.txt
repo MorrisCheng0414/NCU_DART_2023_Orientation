@@ -1,1 +1,3 @@
-Practice using docker and jupyter notebook
+HW_1.png: The screenshot shows the container is successfully created, and entered by the user.
+HW_2.png: The screenshot shows the python file(which contains an simple mnist training example) is ran successfully under tensorflow-gpu.
+HW_3.ipynb: After port forwadrding, the jupyter notebook is now connected with container by ssh, and now we can manipulate the files by juptyer interface.
